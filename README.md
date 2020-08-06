@@ -43,6 +43,9 @@ then you can run this image in your local or in k8s cluster.These methods are de
 | HTTP_PROXY  | N |   |   | proxy address  |
 | HTTP_PORT  | N |   |   | proxy port  |
 
+## Attention
+For git modification, only add, modify and delete are supported now, because I consider that rename and copy are not very necessary for managing files.
+
 ## Todo
 * add deployment.yaml and service.yaml
 * retry
